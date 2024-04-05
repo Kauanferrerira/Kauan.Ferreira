@@ -1,4 +1,4 @@
-👋 Hi, I’m Kauan Nascimento Ferreira
+👋 Hi, I’m Kauan Nascimento Ferreira <br>
 👀 I’m interested in ADS in Italo Brazilian Catholic University Center
 🌱 I’m currently learning programming
 💞️ I’m looking to collaborate on Java, Python, ADS 
